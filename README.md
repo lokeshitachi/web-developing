@@ -1,2 +1,2 @@
-# web-developing practice projects using java script
+# JavaScript_Practice_Projects
 practice
